@@ -14,7 +14,7 @@ Makine öğrenmesi ve yapay zeka alanında kendimi geliştirirken kullandığım
 |[Chapter 6: The universal workflow of machine learning](https://github.com/gokhangokcen1/makine-ogrenmesi/blob/main/deep-learning-with-python/C06-The-universal-workflow-of-machine-learning.md) |  | |
 |[Chapter 7: Working with Keras: A deep dive](https://github.com/gokhangokcen1/makine-ogrenmesi/blob/main/deep-learning-with-python/C07_Working_with_keras.ipynb) |  | |
 |[Chapter 8: Introduction to deep learning for computer vision](https://github.com/gokhangokcen1/makine-ogrenmesi/blob/main/deep-learning-with-python/C08_intro_to_deep_learning_for_computer_vision.ipynb) |  | |
-| Chapter 9: Advanced deep learning for computer vision |  | |
+| [Chapter 9: Advanced deep learning for computer vision](https://github.com/gokhangokcen1/makine-ogrenmesi/blob/main/deep-learning-with-python/C09_advanced_deep_learning_for_computer_vision.ipynb)|  | |
 | Chapter 10: Deep learning for timeseries |  | | 
 | Chapter 11: Deep learning for text |  | | 
 | Chapter 12: Generative deep learning |  | |
